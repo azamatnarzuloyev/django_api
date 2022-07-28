@@ -29,7 +29,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
-
+# LOYIHA TEST UCHUN YARATILGAN
 # Application definition
 
 INSTALLED_APPS = [
